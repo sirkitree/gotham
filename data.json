@@ -1,0 +1,2344 @@
+{
+  "created_time": 1420713248,
+  "updated_time": 1421458532,
+  "cached_at": 1421458537,
+  "published_time": 1420713248,
+  "id": 144643,
+  "uuid": "1655391928055119477",
+  "version_id": 237102,
+  "title": "Gotham 7.5K ",
+  "subtitle": "A Rare High Altitude Night Flight Above NYC",
+  "comments_enabled": true,
+  "cover_media": {
+    "id": 3606033,
+    "uuid": 278391461064503300,
+    "updated_at": 1421343716,
+    "created_at": 1420713248,
+    "type": "image",
+    "image": {
+      "id": 3121332,
+      "uuid": 278391461073204350,
+      "is_processing": false,
+      "representations": {
+        "512": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278391461073204345/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+          "size": {
+            "width": 512,
+            "height": 384
+          }
+        },
+        "1024": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278391461073204345/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+          "size": {
+            "width": 1024,
+            "height": 768
+          }
+        },
+        "2048": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278391461073204345/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+          "size": {
+            "width": 2048,
+            "height": 1535
+          }
+        }
+      },
+      "zoom": 1,
+      "focalpoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278391461073204345/original.jpg"
+    }
+  },
+  "favorite_count": 1153,
+  "repost_count": 459,
+  "ready_version_exists": true,
+  "published": true,
+  "url": "https://www.storehouse.co/stories/r3rcy-gotham-7-5k",
+  "short_url": "http://strh.se/xOdm",
+  "elements": [
+    {
+      "id": 3609621,
+      "updated_at": 1421343715,
+      "created_at": 1421343715,
+      "content": {
+        "id": 3676479,
+        "uuid": 283680207304629150,
+        "updated_at": 1421343715,
+        "created_at": 1421343715,
+        "type": "text",
+        "text": {
+          "id": 824579,
+          "plain_text": "This project has been shared around the world by millions,  as it expands to other cities around the globe & takes on exciting new forms, and to potentially be part of it!\nPlease FOLLOW & SHARE: \nhttps://www.storehouse.co/fromabove",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                0,
+                66
+              ],
+              "style": [
+                "italic"
+              ]
+            },
+            {
+              "range": [
+                66,
+                106
+              ],
+              "style": [
+                "bold",
+                "italic"
+              ]
+            },
+            {
+              "range": [
+                106,
+                172
+              ],
+              "style": [
+                "italic"
+              ]
+            },
+            {
+              "range": [
+                172,
+                194
+              ],
+              "style": [
+                "bold",
+                "italic"
+              ]
+            },
+            {
+              "range": [
+                196,
+                231
+              ],
+              "style": [
+                "link",
+                "url"
+              ],
+              "links": {
+                "ios": "https://www.storehouse.co/fromabove",
+                "web": "https://www.storehouse.co/fromabove"
+              }
+            }
+          ],
+          "alignment": "center"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609622,
+      "updated_at": 1421343715,
+      "created_at": 1421343715,
+      "content": {
+        "id": 3676480,
+        "uuid": 283680207399267230,
+        "updated_at": 1421343715,
+        "created_at": 1421343715,
+        "type": "text",
+        "text": {
+          "id": 824580,
+          "plain_text": "Imagine leaning out of an open door of a helicopter 7,500 feet over New York City on a very dark and chilly night... \n\nAnd seeing this:",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609623,
+      "updated_at": 1421343715,
+      "created_at": 1421343715,
+      "content": {
+        "id": 3605505,
+        "uuid": 278338875028094270,
+        "updated_at": 1420706983,
+        "created_at": 1420706979,
+        "type": "image",
+        "image": {
+          "id": 3120784,
+          "uuid": 278338875039968500,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338875039968515/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338875039968515/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338875039968515/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338875039968515/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609624,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676481,
+        "uuid": 283680207566749200,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824581,
+          "plain_text": "It is both exhilarating and terrifying all at once...\n\nLet's just start off by saying this was the scariest helicopter \"photo mission\" of my career...\n\nAnd the most beautiful",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                152,
+                174
+              ],
+              "style": [
+                "bold"
+              ]
+            }
+          ],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609625,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605501,
+        "uuid": 278338842394537400,
+        "updated_at": 1420706979,
+        "created_at": 1420706975,
+        "type": "image",
+        "image": {
+          "id": 3120780,
+          "uuid": 278338842398456420,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338842398456412/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338842398456412/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338842398456412/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338842398456412/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609626,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676482,
+        "uuid": 283680207723304670,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824582,
+          "plain_text": "I've flown on \"aerial missions\" over The Big Apple more than 50 times over the past decade and a half, and I've flown several hundred hours of photo flights around the world... And this was by far the most frightening flight of all.\n\nAnd nothing \"eventful\" whatsoever happened.\n\nMy cameras & I were safely harnessed in at all times.  The pilot was top notch.   The wind was ... Well it was a factor.",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                234,
+                277
+              ],
+              "style": [
+                "bold"
+              ]
+            }
+          ],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609627,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605515,
+        "uuid": 278338957742148100,
+        "updated_at": 1420706993,
+        "created_at": 1420706989,
+        "type": "image",
+        "image": {
+          "id": 3120794,
+          "uuid": 278338957736708160,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338957736708176/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338957736708176/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338957736708176/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338957736708176/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609628,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676483,
+        "uuid": 283680207876819070,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824583,
+          "plain_text": "But the real scary part was that there's just simply nothing quite like leaning out of that chopper over the sea of darkness and light,  held in only by a full body harness...There is no chance that you will fall - the harness is tried and true.  But you DO think about the fall.  \n\nAnd you think about it again ...  And again ... And how long you would have to think things over from that height all the way down to the ground below.   \n\nAnd then you start to think about the helicopter, and how it's not exactly the most aerodynamically stable aircraft up there in the first place .... But I digress.  \n\nBack to the Pictures!  (That's what I kept telling myself in case you were wondering...) ",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                606,
+                627
+              ],
+              "style": [
+                "bold"
+              ]
+            },
+            {
+              "range": [
+                627,
+                695
+              ],
+              "style": [
+                "italic"
+              ]
+            }
+          ],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609629,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605507,
+        "uuid": 278338891011927400,
+        "updated_at": 1420706983,
+        "created_at": 1420706981,
+        "type": "image",
+        "image": {
+          "id": 3120786,
+          "uuid": 278338891021035800,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338891021035815/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 341,
+                "height": 512
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338891021035815/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 682,
+                "height": 1024
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338891021035815/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 1333,
+                "height": 2000
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 682,
+            "height": 1024
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338891021035815/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609630,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605511,
+        "uuid": 278338923391429860,
+        "updated_at": 1420706988,
+        "created_at": 1420706985,
+        "type": "image",
+        "image": {
+          "id": 3120790,
+          "uuid": 278338923392050780,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338923392050779/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338923392050779/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338923392050779/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338923392050779/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609631,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605500,
+        "uuid": 278338834905969800,
+        "updated_at": 1420706979,
+        "created_at": 1420706974,
+        "type": "image",
+        "image": {
+          "id": 3120779,
+          "uuid": 278338834907851360,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338834907851368/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338834907851368/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338834907851368/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338834907851368/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609632,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605502,
+        "uuid": 278338851044626140,
+        "updated_at": 1420706980,
+        "created_at": 1420706976,
+        "type": "image",
+        "image": {
+          "id": 3120781,
+          "uuid": 278338851043809250,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338851043809241/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338851043809241/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338851043809241/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338851043809241/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609633,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605499,
+        "uuid": 278338826143001380,
+        "updated_at": 1420706978,
+        "created_at": 1420706973,
+        "type": "image",
+        "image": {
+          "id": 3120778,
+          "uuid": 278338826138925150,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338826138925148/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 384
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338826138925148/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 768
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338826138925148/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1535
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 768
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338826138925148/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609634,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605509,
+        "uuid": 278338908579407650,
+        "updated_at": 1420706987,
+        "created_at": 1420706983,
+        "type": "image",
+        "image": {
+          "id": 3120788,
+          "uuid": 278338908594388100,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338908594388095/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338908594388095/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338908594388095/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338908594388095/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609635,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676484,
+        "uuid": 283680208394738500,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824584,
+          "plain_text": "I was recently on assignment for Men's Health Magazine and I proposed shooting the city from an unusually high altitude so that we could capture the lines that are formed by the streets of New York at night.  It was an article about psychology and I've always thought that from a high altitude the streets looked like brain \"synapses\" - at least to me.",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                33,
+                54
+              ],
+              "style": [
+                "italic"
+              ]
+            }
+          ],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609636,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605510,
+        "uuid": 278338916188384770,
+        "updated_at": 1420706988,
+        "created_at": 1420706984,
+        "type": "image",
+        "image": {
+          "id": 3120789,
+          "uuid": 278338916202637120,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338916202637107/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338916202637107/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338916202637107/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338916202637107/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609637,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676485,
+        "uuid": 283680208552584220,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824585,
+          "plain_text": "These are pictures I've wanted to make since I was in my teens, but the cameras simply have not been capable of capturing aerial images from a helicopter at night until very recently.    \n\nHelicopters vibrate pretty significantly and you have to be able to shoot at a relatively high shutter speed (even with tools like a gyroscope) and that makes it incredibly difficult to shoot post sunset.",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609638,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605512,
+        "uuid": 278338934167169060,
+        "updated_at": 1420706990,
+        "created_at": 1420706986,
+        "type": "image",
+        "image": {
+          "id": 3120791,
+          "uuid": 278338934178992030,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338934178992040/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338934178992040/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338934178992040/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338934178992040/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609639,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676486,
+        "uuid": 283680208712834980,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824586,
+          "plain_text": "Armed with cameras such as the Canon 1DX and the Mamiya Leaf Credo 50 MP back- both capable of shooting relatively clean files at 3200 & 6400 ISO and a series of f2.8 to f1.2 lenses including a few tilt-shift lenses (see image above.) \n\nI was finally able to capture some of the images that I've dreamed of capturing for decades.",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609640,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605530,
+        "uuid": 278339055620279170,
+        "updated_at": 1420707004,
+        "created_at": 1420707001,
+        "type": "image",
+        "image": {
+          "id": 3120809,
+          "uuid": 278339055630035000,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339055630035010/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 384
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339055630035010/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 768
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339055630035010/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1535
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 768
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339055630035010/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 4,
+        "height": 3
+      }
+    },
+    {
+      "id": 3609641,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605503,
+        "uuid": 278338855270846940,
+        "updated_at": 1420706979,
+        "created_at": 1420706977,
+        "type": "image",
+        "image": {
+          "id": 3120782,
+          "uuid": 278338855273799170,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338855273799159/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 341,
+                "height": 512
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338855273799159/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 682,
+                "height": 1024
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338855273799159/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 1333,
+                "height": 2000
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 682,
+            "height": 1024
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338855273799159/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 2,
+        "height": 3
+      }
+    },
+    {
+      "id": 3609642,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676487,
+        "uuid": 283680208938706850,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824587,
+          "plain_text": "The complexity of this city is even more impressive from above than it is from closeup on the ground as your can truly appreciate its incredible scale.",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609643,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605514,
+        "uuid": 278338950223653860,
+        "updated_at": 1420706992,
+        "created_at": 1420706988,
+        "type": "image",
+        "image": {
+          "id": 3120793,
+          "uuid": 278338950225088830,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338950225088830/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338950225088830/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338950225088830/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338950225088830/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 3
+      }
+    },
+    {
+      "id": 3609644,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676488,
+        "uuid": 283680209091448670,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824588,
+          "plain_text": "Had we gone just a few thousand more feet up (around 11,000-12,000 feet) we would have needed oxygen masks!    \n\nOne veteran pilot that we often fly with refused to go up to the altitude we were at ... He said that \"helicopters are not meant to live in that realm\" - which I kind of agree with following this flight.  \n\nI had only gone this high once before, but that was over the desert and during the daytime - a very different experience.   I still remember it being 120 degrees on the ground and in the 60s at high altitude and how you could feel the temperature change rapidly as we climbed up there...",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609645,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605513,
+        "uuid": 278338941883641570,
+        "updated_at": 1420706990,
+        "created_at": 1420706987,
+        "type": "image",
+        "image": {
+          "id": 3120792,
+          "uuid": 278338941888156300,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338941888156285/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338941888156285/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338941888156285/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338941888156285/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609646,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676489,
+        "uuid": 283680209255167000,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824589,
+          "plain_text": "This flight required extensive planning and special clearances - we were actually flying ABOVE all of the airline traffic landing at JFK, LGA and Newark airports ... ",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609647,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605519,
+        "uuid": 278338981401403970,
+        "updated_at": 1420706996,
+        "created_at": 1420706992,
+        "type": "image",
+        "image": {
+          "id": 3120798,
+          "uuid": 278338981404005300,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338981404005320/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338981404005320/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338981404005320/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338981404005320/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609648,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676490,
+        "uuid": 283680209422803300,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824590,
+          "plain_text": "I have to admit that it was very odd to be looking at airplanes - big ones: jetliners - flying beneath you!",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "left"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609649,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605538,
+        "uuid": 278339114317232420,
+        "updated_at": 1420707011,
+        "created_at": 1420707008,
+        "type": "image",
+        "image": {
+          "id": 3120817,
+          "uuid": 278339114317528770,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339114317528759/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339114317528759/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339114317528759/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339114317528759/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609650,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676491,
+        "uuid": 283680209575106500,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824591,
+          "plain_text": "Ultimately this is a flight I will never forget.   ",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609651,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676492,
+        "uuid": 283680209659199520,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824592,
+          "plain_text": "These are some of the most unique images that I have ever photographed of New York City in nearly two decades... ",
+          "rich_text": "",
+          "text_style": "pull_quote",
+          "modifiers": [],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609652,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676493,
+        "uuid": 283680209757115230,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824593,
+          "plain_text": "And I'm not sure if, and, or when I'll ever go back up that high above Gotham...",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609653,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605508,
+        "uuid": 278338899627183550,
+        "updated_at": 1420706986,
+        "created_at": 1420706982,
+        "type": "image",
+        "image": {
+          "id": 3120787,
+          "uuid": 278338899629175140,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338899629175140/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338899629175140/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338899629175140/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338899629175140/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 8
+      }
+    },
+    {
+      "id": 3609654,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676494,
+        "uuid": 283680209904921860,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824594,
+          "plain_text": "But something tells me this won't be my last flight up there... Just maybe not THAT high...",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609655,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605526,
+        "uuid": 278339029299471680,
+        "updated_at": 1420707001,
+        "created_at": 1420706997,
+        "type": "image",
+        "image": {
+          "id": 3120805,
+          "uuid": 278339029300672480,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339029300672490/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339029300672490/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339029300672490/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339029300672490/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 6
+      }
+    },
+    {
+      "id": 3609656,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605534,
+        "uuid": 278339087437245400,
+        "updated_at": 1420707007,
+        "created_at": 1420707004,
+        "type": "image",
+        "image": {
+          "id": 3120813,
+          "uuid": 278339087446826560,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339087446826574/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 384,
+                "height": 512
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339087446826574/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 768,
+                "height": 1024
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339087446826574/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 1500,
+                "height": 2000
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 768,
+            "height": 1024
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339087446826574/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 6,
+        "height": 6
+      }
+    },
+    {
+      "id": 3609657,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676495,
+        "uuid": 283680210304774080,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824595,
+          "plain_text": "I hope you enjoy these as much as I enjoyed making them.  You can see a pretty cool video by David Geffin of how these were made, including some of the gear used up there,  here:",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609658,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605965,
+        "uuid": 278384306478051460,
+        "updated_at": 1420712397,
+        "created_at": 1420712395,
+        "type": "image",
+        "image": {
+          "id": 3121261,
+          "uuid": 278384306487807840,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278384306487807839/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 322
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278384306487807839/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 644
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278384306487807839/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2019,
+                "height": 1270
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 644
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278384306487807839/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609659,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676496,
+        "uuid": 283680210477615580,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824596,
+          "plain_text": "http://vimeo.com/115292381",
+          "rich_text": "",
+          "text_style": "pull_quote",
+          "modifiers": [
+            {
+              "range": [
+                0,
+                26
+              ],
+              "style": [
+                "link",
+                "url"
+              ],
+              "links": {
+                "ios": "http://vimeo.com/115292381",
+                "web": "http://vimeo.com/115292381"
+              }
+            }
+          ],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609660,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605523,
+        "uuid": 278339005748651620,
+        "updated_at": 1420707000,
+        "created_at": 1420706995,
+        "type": "image",
+        "image": {
+          "id": 3120802,
+          "uuid": 278339005750005380,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339005750005362/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 384
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339005750005362/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 768
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339005750005362/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1535
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 768
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339005750005362/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    },
+    {
+      "id": 3609661,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605525,
+        "uuid": 278339021784892160,
+        "updated_at": 1420707000,
+        "created_at": 1420706997,
+        "type": "image",
+        "image": {
+          "id": 3120804,
+          "uuid": 278339021784005470,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339021784005485/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339021784005485/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339021784005485/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339021784005485/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 4,
+        "height": 3
+      }
+    },
+    {
+      "id": 3609662,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676497,
+        "uuid": 283680210699279040,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824597,
+          "plain_text": "Special thanks to long time friend and aerial coordinator Mike Isler & Liberty Helicopters.",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                0,
+                91
+              ],
+              "style": [
+                "italic"
+              ]
+            }
+          ],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609663,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605539,
+        "uuid": 278339118850038180,
+        "updated_at": 1420707011,
+        "created_at": 1420707008,
+        "type": "image",
+        "image": {
+          "id": 3120818,
+          "uuid": 278339118848726140,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339118848726137/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339118848726137/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339118848726137/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339118848726137/original.jpg"
+        }
+      },
+      "layout_type": "grid",
+      "grid_size": {
+        "width": 6,
+        "height": 3
+      }
+    },
+    {
+      "id": 3609664,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605532,
+        "uuid": 278339074474162880,
+        "updated_at": 1420707007,
+        "created_at": 1420707003,
+        "type": "image",
+        "image": {
+          "id": 3120811,
+          "uuid": 278339074476540900,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339074476540891/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 384
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339074476540891/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 768
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339074476540891/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1535
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 768
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278339074476540891/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 6
+      }
+    },
+    {
+      "id": 3609665,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676498,
+        "uuid": 283680210939130880,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824598,
+          "plain_text": "To see more of these and other images please visit:",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                0,
+                51
+              ],
+              "style": [
+                "italic"
+              ]
+            }
+          ],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609666,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676499,
+        "uuid": 283680211015221950,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824599,
+          "plain_text": "http://fineart.laforetvisuals.com",
+          "rich_text": "",
+          "text_style": "pull_quote",
+          "modifiers": [
+            {
+              "range": [
+                0,
+                33
+              ],
+              "style": [
+                "link",
+                "url"
+              ],
+              "links": {
+                "ios": "http://fineart.laforetvisuals.com",
+                "web": "http://fineart.laforetvisuals.com"
+              }
+            }
+          ],
+          "alignment": "right"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609667,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3676500,
+        "uuid": 283680211098250980,
+        "updated_at": 1421343716,
+        "created_at": 1421343716,
+        "type": "text",
+        "text": {
+          "id": 824600,
+          "plain_text": "If you'd like to stay in touch as this project takes flight over \nOTHER CITIES  \n& takes on exciting new forms, and to potentially be part of it. \nPlease FOLLOW & SHARE: \nhttps://www.storehouse.co/fromabove",
+          "rich_text": "",
+          "text_style": "body",
+          "modifiers": [
+            {
+              "range": [
+                147,
+                169
+              ],
+              "style": [
+                "bold"
+              ]
+            },
+            {
+              "range": [
+                171,
+                206
+              ],
+              "style": [
+                "link",
+                "url"
+              ],
+              "links": {
+                "ios": "https://www.storehouse.co/fromabove",
+                "web": "https://www.storehouse.co/fromabove"
+              }
+            }
+          ],
+          "alignment": "center"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": 3609668,
+      "updated_at": 1421343716,
+      "created_at": 1421343716,
+      "content": {
+        "id": 3605506,
+        "uuid": 278338884977883170,
+        "updated_at": 1420706984,
+        "created_at": 1420706980,
+        "type": "image",
+        "image": {
+          "id": 3120785,
+          "uuid": 278338884987552580,
+          "is_processing": false,
+          "representations": {
+            "512": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338884987552563/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+              "size": {
+                "width": 512,
+                "height": 341
+              }
+            },
+            "1024": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338884987552563/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+              "size": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "2048": {
+              "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338884987552563/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+              "size": {
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          "zoom": 1,
+          "focalpoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "width": 1024,
+            "height": 683
+          },
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/i/images/imgs/278338884987552563/original.jpg"
+        }
+      },
+      "layout_type": "block",
+      "grid_size": {
+        "width": 6,
+        "height": 4
+      }
+    }
+  ],
+  "user": {
+    "updated_at": 1421457154,
+    "cached_at": 1421457348,
+    "id": 228,
+    "profile_url": "https://www.storehouse.co/vincent",
+    "username": "vincent",
+    "full_name": "Vincent Laforet",
+    "disabled": null,
+    "bio": "Filmmaker (DGA Director) Photographer, Producer, Entrepreneur, Teacher, Advisor & Very Very Proud Father of two.  NYC & LA",
+    "instagram_username": "vincentlaforet",
+    "website": "http://laforetvisuals.com",
+    "authored_channel_id": 660,
+    "favorites_channel_id": 661,
+    "reposts_channel_id": 828156,
+    "avatar_image": {
+      "id": 14283,
+      "uuid": 17888093454540520,
+      "is_processing": false,
+      "representations": {
+        "120": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/l/images/imgs/14283/original.jpg?w=120&h=120&crop_mode=fit&v=1",
+          "size": {
+            "width": 90,
+            "height": 120
+          }
+        },
+        "320": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/l/images/imgs/14283/original.jpg?w=320&h=320&crop_mode=fit&v=1",
+          "size": {
+            "width": 240,
+            "height": 320
+          }
+        }
+      },
+      "zoom": 1,
+      "focalpoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "size": {
+        "width": 640,
+        "height": 854
+      },
+      "url": "https://d12oemfd9cl6ha.cloudfront.net/l/images/imgs/14283/original.jpg"
+    },
+    "cover_image": {
+      "id": 14282,
+      "uuid": 17888093460196594,
+      "is_processing": false,
+      "representations": {
+        "512": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/l/images/imgs/14282/original.jpg?w=512&h=512&crop_mode=fit&v=1",
+          "size": {
+            "width": 512,
+            "height": 341
+          }
+        },
+        "1024": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/l/images/imgs/14282/original.jpg?w=1024&h=1024&crop_mode=fit&v=1",
+          "size": {
+            "width": 1024,
+            "height": 682
+          }
+        },
+        "2048": {
+          "url": "https://d12oemfd9cl6ha.cloudfront.net/l/images/imgs/14282/original.jpg?w=2048&h=2048&crop_mode=fit&v=1",
+          "size": {
+            "width": 1024,
+            "height": 682
+          }
+        }
+      },
+      "zoom": 1,
+      "focalpoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "size": {
+        "width": 1024,
+        "height": 682
+      },
+      "url": "https://d12oemfd9cl6ha.cloudfront.net/l/images/imgs/14282/original.jpg"
+    },
+    "linked_accounts": [
+      {
+        "id": 30897,
+        "service": "instagram",
+        "profile_url": null,
+        "description": "vincentlaforet"
+      },
+      {
+        "id": 142184,
+        "service": "facebook",
+        "profile_url": "https://www.facebook.com/vlaforet",
+        "description": "Vincent Laforet"
+      },
+      {
+        "id": 25021,
+        "service": "twitter",
+        "profile_url": "https://twitter.com/vincentlaforet",
+        "username": "vincentlaforet",
+        "description": "vincentlaforet"
+      }
+    ],
+    "following_count": 240,
+    "follower_count": 35805,
+    "stories_count": 12,
+    "favorites_count": 171,
+    "reposts_count": 120,
+    "followed_by_current_user": false,
+    "is_following_current_user": false,
+    "is_blocked": false,
+    "is_blocking_current_user": false
+  },
+  "channels": [
+    497862
+  ],
+  "view_count": 323246,
+  "sort_time": 1420713248,
+  "favorited_by_current_user": false,
+  "reposted_by_current_user": false,
+  "comment_count": 166,
+  "blurb": null
+}
